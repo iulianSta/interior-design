@@ -12,6 +12,13 @@ Interior design agency project created using Html, Css, Bootstrap and Javascript
  - [ThemeWagon](https://themewagon.com)
  - [TemplateWire](https://templatewire.com)
 
+ ## Credits
+
+ - Bootstrap
+ - Nivo Lightbox
+ - Font Awesome
+ - Unsplash
+
  ## Photos by:
 
  - Spacejoy on Unsplash
