@@ -2,11 +2,22 @@
 
 Interior design agency project created using Html, Css, Bootstrap and Javascript.
 
+## Screenshots
+
+![App Screenshot](./img/dreamspace.png)
+
 ## Acknowledgements
 
  - [Julian Stan](https://julianstan.com)
  - [ThemeWagon](https://themewagon.com)
  - [TemplateWire](https://templatewire.com)
+
+ ## Photos by:
+
+ - Spacejoy on Unsplash
+ - Maranda Vandergriff on Unsplash
+ - Jason Wang on Unsplash
+ - Uneebo Office Design on Unsplash
 
  ## Authors
 
@@ -14,7 +25,7 @@ Interior design agency project created using Html, Css, Bootstrap and Javascript
 
 ## Demo
 
-[DREAMSPACE](https://julianstan.com)
+[DREAMSPACE](https://iuliansta.github.io/interior-design/)
 
 ## License
 
