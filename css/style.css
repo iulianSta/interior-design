@@ -484,3 +484,8 @@ color: #777;
 #footer a:hover {
 	color: #a7c44c;
 }
+@media  (max-width: 768px) {
+	.intro h1 {
+		font-size: 48px;
+	}
+}
