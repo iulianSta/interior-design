@@ -488,4 +488,7 @@ color: #777;
 	.intro h1 {
 		font-size: 48px;
 	}
+   .type li {
+		margin-bottom: 50px;
+	}
 }
